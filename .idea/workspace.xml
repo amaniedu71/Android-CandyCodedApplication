@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,12 +153,60 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="test1">
+      <created>1601962318446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601962318446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="199" key="#com.intellij.ide.util.MemberChooser" timestamp="1601962113331">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="445" y="199" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1601962113331" />
+    <state x="193" y="85" key="CommitChangelistDialog2" timestamp="1601964504579">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="193" y="85" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1601964504579" />
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom" timestamp="1601964462600">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1601964462600" />
+    <state width="1236" height="259" key="GridCell.Tab.0.center" timestamp="1601964462599">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1601964462599" />
+    <state width="1236" height="259" key="GridCell.Tab.0.left" timestamp="1601964462599">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1601964462599" />
+    <state width="1236" height="259" key="GridCell.Tab.0.right" timestamp="1601964462600">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1601964462600" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1601964472912">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1601964472912" />
+    <state x="385" y="170" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601963470775">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="385" y="170" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.984@0.0.1280.984" timestamp="1601963470775" />
+    <state x="296" y="221" width="672" height="677" key="run.anything.popup" timestamp="1601963530131">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="221" width="672" height="677" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1601963530131" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1601962651445">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1601962651445" />
   </component>
 </project>
